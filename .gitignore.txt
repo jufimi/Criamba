@@ -1,0 +1,6 @@
+# Archivos grandes detectados por Git
+Library/PackageCache/com.unity.burst@1.8.18/.Runtime/libburst-llvm-10.dylib
+Library/PackageCache/com.unity.burst@1.8.18/.Runtime/libburst-llvm-16.so
+Library/PackageCache/com.unity.burst@1.8.18/.Runtime/hostmac/dsymutil
+Library/ArtifactDB
+Library/PackageCache/com.unity.burst@1.8.18/.Runtime/libburst-llvm-16.dylib
